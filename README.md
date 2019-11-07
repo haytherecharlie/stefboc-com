@@ -1,5 +1,5 @@
 ---
-# thetastingroom.ca
+# stefboc.com
 ---
 
 ### TABLE OF CONTENTS
@@ -15,7 +15,7 @@
 ### Clone Repo.
 
 ```
-git clone https://github.com/thedevenvironment/thetastingroom.ca.git
+git clone git@github.com:haytherecharlie/stefboc.com.git
 ```
 
 ### Install Node Modules
