@@ -83,12 +83,7 @@ function Landing() {
             &nbsp;stefan.c.boc@gmail.com
           </S.ContactInfoText>
         </S.ContactInfo>
-        <S.ContactMap
-          onClick={() =>
-            window.open(
-              'https://www.google.com/maps/place/2030+Fort+St,+Montreal,+QC+H3H+2C5/@45.4927078,-73.5855289,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a6c97b5a09d:0xa36d664ec5bc9d72!8m2!3d45.4927041!4d-73.5833402'
-            )
-          }>
+        <S.ContactMap onClick={() => window.open('https://www.google.com/maps/place/2030+Fort+St,+Montreal,+QC+H3H+2C5/@45.4927078,-73.5855289,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a6c97b5a09d:0xa36d664ec5bc9d72!8m2!3d45.4927041!4d-73.5833402')}>
           <S.ContactInfoText>
             <PinIcon fontSize="1.2rem" color="#47b1ac" />
             &nbsp; 2030 Rue du Fort, Montreal, QC
